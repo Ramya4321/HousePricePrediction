@@ -27,26 +27,26 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 > Data Set is available in a CSV file named train.csv
 
 - Objective of the Project
-> Model the price of houses with the available independent variables.
-> This model will then be used by the management to understand how exactly the prices vary with the variables.
-> They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
-> Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+> Model the price of houses with the available independent variables. <br>
+> This model will then be used by the management to understand how exactly the prices vary with the variables.<br>
+> They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.<br>
+> Further, the model will be a good way for management to understand the pricing dynamics of a new market.<br>
 
 - Approach to solve this business problem
-> Step 1 : Data Understanding and Exploratory Data Analysis ( EDA )
-> Step 2 : Data Preperation
-> Step 3 : Dividing the Data in terms of TRAIN and TEST.
-> Step 4 : Training the model
-> Step 5 : Model 1 Prediction and Evaluation by RFE,VIF 
-> Step 6 : Model 2 Ridge and Lasso Regularization on columns given by rfe 
-> Step 7 : Model 3 Ridge and Lasso Regularization on the dataset(without rfe)
-> Step 8 : Conclusions and Results
+> Step 1 : Data Understanding and Exploratory Data Analysis ( EDA )<br>
+> Step 2 : Data Preperation<br>
+> Step 3 : Dividing the Data in terms of TRAIN and TEST.<br>
+> Step 4 : Training the model <br>
+> Step 5 : Model 1 Prediction and Evaluation by RFE,VIF  <br>
+> Step 6 : Model 2 Ridge and Lasso Regularization on columns given by rfe <br>
+> Step 7 : Model 3 Ridge and Lasso Regularization on the dataset(without rfe) <br>
+> Step 8 : Conclusions and Results <br>
 
 
 ## Conclusions
 - The optimal value of LAMBDA we got in case of Ridge and Lasso is :
-> Ridge - 3.0
-> Lasso - 0.0001
+> Ridge - 3.0 <br>
+> Lasso - 0.0001 <br>
 
 
 
